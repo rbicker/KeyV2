@@ -1,5 +1,7 @@
 # Parametric Mechanical Keycap Library
 
+**This fork contains uhk.scad, a layout for the ultimate hacking keyboard v1.**
+
 ![a slightly askew welcome picture](assets/welcome.png)
 
 This library is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
